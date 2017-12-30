@@ -6,7 +6,7 @@ The best way to learn Pyth is to dive head-first into it by writing some program
 3.1. Factorial
 ==============
 
-An easy problem that will get you into thinking the correct way is computing factorials and all the different ways to do it. We will trying simple loops, the recursive approach, and the ``reduce`` function. Let's try it the obvious, straightforward way first. But how do we get input in Pyth?
+An easy problem that will get you into thinking the correct way is computing factorials and all the different ways to do it. We will be trying simple loops, the recursive approach, and the ``reduce`` function. Let's try it the obvious, straightforward way first. But how do we get input in Pyth?
 
 3.1.1. Input in Pyth
 --------------------
